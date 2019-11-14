@@ -14,6 +14,7 @@ If either player wins, the winner is displayed at the top and the game will no l
 ## Future Features: 
 I plan on adding extra bells and whistles to this game by:
 - Adding a reset button so one does not need to refresh the page in order to start a new game
+- If game reaches a 'draw', change text above that indicates it is a draw
 - Additional styling to the "X" and "O" 
 
 ## Technologies Used: 

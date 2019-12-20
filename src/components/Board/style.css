@@ -6,6 +6,7 @@
     row-gap: 10px;
     background-color: lightgray;
     justify-content: center;
+   
   }
 
   .square {
@@ -15,6 +16,7 @@
     align-items: center;
     justify-content: center;
     background-color: white;
+    font-size: 70px;
   }
 
   
